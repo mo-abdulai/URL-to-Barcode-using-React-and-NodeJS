@@ -1,0 +1,13 @@
+.container {
+  justify-content: center;
+}
+
+.row{
+  height: 100px;
+  color: aqua;
+}
+
+.col {
+  width: 100px;
+  color: aqua;
+}
